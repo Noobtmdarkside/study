@@ -6,5 +6,6 @@
 </head>
 <body>
 <p>Робимо перші зміни 20-04</p>
+	<p>add 3 commit 05 05 17</p>
 </body>
 </html>
